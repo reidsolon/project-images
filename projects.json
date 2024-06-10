@@ -1,6 +1,7 @@
 {
     "projects": [
         {
+            "id": "3168e6b2-9f1f-46bb-934a-b4017418077a",
             "name": "Jigsaw: Tradie Marketplace",
             "position": "Sr. Fullstack Developer",
             "year": "2024+",
@@ -21,6 +22,7 @@
             }
         },
         {
+            "id": "3d8cf412-afa3-4883-9143-96ee0b3d17ba",
             "name": "Loyali One: Digital Membership",
             "position": "Sr. Fullstack Developer",
             "year": "2024+",
@@ -41,6 +43,7 @@
             }
         },
         {
+            "id": "0183f5af-dfc3-4354-9d01-04458f9deb98",
             "name": "Activfy: Fitness App",
             "position": "Fullstack Developer",
             "year": "2023+",
@@ -60,6 +63,7 @@
             }
         },
         {
+            "id": "ae5d8ef7-1377-4550-b483-0af6d60c6a88",
             "name": "Logoji: The Logo Keyboard",
             "position": "Fullstack Developer",
             "year": "2023+",
@@ -80,6 +84,7 @@
             }
         },
         {
+            "id": "43ad41f2-bcdc-4678-aaee-5d6cd87263c2",
             "name": "CloudKart PH v1: Progressive App/Mobile",
             "position": "Fullstack Developer",
             "year": "2020+",
