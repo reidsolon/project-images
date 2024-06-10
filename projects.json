@@ -158,6 +158,31 @@
                 "text": "#ffffff",
                 "subtext": "#ffffff"
             }
+        },
+        {
+            "id": "43ad41G2-bcdc-4678-aaee-5d6cd87263c2",
+            "name": "Psychic Webphone",
+            "position": "Fullstack Developer",
+            "year": "2020+",
+            "description": "Ethycal Reading via phone call",
+            "stack": "Laravel 6-7, Vue 2",
+            "stack_arr": [
+                "Laravel 6",
+                "Laravel 7",
+                "Vue 2"
+            ],
+            "contrib": "Part of the backend development to create seamless api for the web-application",
+            "location": "N/A",
+            "logo": "https://raw.githubusercontent.com/reidsolon/project-images/main/psychic_logo.png",
+            "images": [
+                "https://raw.githubusercontent.com/reidsolon/project-images/main/psychic1.png"
+            ],
+            "palette": {
+                "main": "#264EAD",
+                "sub": "#1BB67D",
+                "text": "#ffffff",
+                "subtext": "#ffffff"
+            }
         }
     ]
 }
