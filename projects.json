@@ -133,6 +133,31 @@
                 "text": "#ffffff",
                 "subtext": "#ffffff"
             }
-        }
+        },
+        {
+            "id": "53ad41f2-bcdc-5678-aaee-3d6cd87263c2",
+            "name": "Bizman: Business Mgmt. Tracking",
+            "position": "Fullstack Developer",
+            "year": "2021-2023+",
+            "description": "The ultimate tool, seamlessly combining time-tracking, task management, productivity insights, and password administration into a single, cohesive platform.",
+            "stack": "Laravel 5.6, Vue 2.6",
+            "stack_arr": [
+                "Laravel 5.6",
+                "Vue 2",
+            ],
+            "contrib": "Being part of the frontend and backend to develop timer tracking, task management and etc.",
+            "location": "Israel",
+            "logo": "https://raw.githubusercontent.com/reidsolon/project-images/main/bizman-logo.png",
+            "images": [
+                "https://raw.githubusercontent.com/reidsolon/project-images/main/in-task%20timer.webp",
+                "https://raw.githubusercontent.com/reidsolon/project-images/main/task-management.jpg"
+            ],
+            "palette": {
+                "main": "#264EAD",
+                "sub": "#1BB67D",
+                "text": "#ffffff",
+                "subtext": "#ffffff"
+            }
+        },
     ]
 }
