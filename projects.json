@@ -12,7 +12,13 @@
             "images": [
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/jigsaw-2.webp",
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/jigsaw-single.webp"
-            ]
+            ],
+            "palette": {
+                "main": "#FDAF05",
+                "sub": "#111111",
+                "text": "#111111",
+                "subtext": "#ffffff"
+            }
         },
         {
             "name": "Loyali One: Digital Membership",
@@ -26,7 +32,13 @@
             "images": [
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/playstore1.webp",
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/Loyali.webp"
-            ]
+            ],
+            "palette": {
+                "main": "#C66A5D",
+                "sub": "#ffffff",
+                "text": "#111111",
+                "subtext": "#111111"
+            }
         },
         {
             "name": "Activfy: Fitness App",
@@ -39,7 +51,13 @@
             "logo": "https://raw.githubusercontent.com/reidsolon/project-images/main/activfy-logo.webp",
             "images": [
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/Activfy_Screenshots.webp"
-            ]
+            ],
+            "palette": {
+                "main": "#e7e7e7",
+                "sub": "#111111",
+                "text": "#111111",
+                "subtext": "#111111"
+            }
         },
         {
             "name": "Logoji: The Logo Keyboard",
@@ -53,7 +71,13 @@
             "images": [
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji2.webp",
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/Logoji1.png"
-            ]
+            ],
+            "palette": {
+                "main": "#ffffff",
+                "sub": "#111111",
+                "text": "#111111",
+                "subtext": "#111111"
+            }
         },
         {
             "name": "CloudKart PH v1: Progressive App/Mobile",
@@ -67,7 +91,13 @@
             "images": [
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/ckart.jpg",
                 "https://raw.githubusercontent.com/reidsolon/project-images/main/CloudKart1.webp"
-            ]
+            ],
+            "palette": {
+                "main": "#264EAD",
+                "sub": "#1BB67D",
+                "text": "#ffffff",
+                "subtext": "#ffffff"
+            }
         }
     ]
 }
